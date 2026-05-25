@@ -1,0 +1,6 @@
+{
+  "name": "St. Clair Inn",
+  "description": "Historical luxury hospitality landing page combining 1920s elegance with ultra-minimalist Swiss design, featuring parallax motion, a cinematic timeline, and modern interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
