@@ -143,7 +143,7 @@ export default function App() {
       <section className="relative w-full h-[60vh] bg-charcoal flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/src/assets/images/st_clair_dining_room_1779727593233.png" 
+            src="/images/st_clair_dining_room_1779727593233.png" 
             alt="Cinematic Glimpse" 
             className="w-full h-full object-cover scale-105 brightness-50 contrast-105 grayscale"
             referrerPolicy="no-referrer"

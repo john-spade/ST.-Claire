@@ -10,7 +10,7 @@ const OUTLETS_DATA: DiningOutlet[] = [
     concept: "HEIRLOOM FINE DINING",
     hours: "17:00 — 22:30",
     description: "Michelin-inspired gastronomy situated directly above the fast-running currents of the St. Clair riverfront. Featuring freshly sourced whitefish, duck ballotine, and heritage wheat tablesmith rolls.",
-    image: "/src/assets/images/st_clair_dining_room_1779727593233.png",
+    image: "/images/st_clair_dining_room_1779727593233.png",
     accentQuote: "“Honest craftsmanship, local roots, and a timeless Great Lakes view.”"
   },
   {
@@ -37,7 +37,7 @@ const OUTLETS_DATA: DiningOutlet[] = [
     concept: "RUSTIC BOTANICAL BAR",
     hours: "15:00 — 23:00",
     description: "Soaring under the 200-year-old hand-hewn hemlock rafters inside our restored barn, our botanical bar celebrates clean gin distillations and wild-harvested floral bitters.",
-    image: "/src/assets/images/st_clair_restored_barn_1779727626592.png",
+    image: "/images/st_clair_restored_barn_1779727626592.png",
     accentQuote: "“Deep forest heritage combined with sleek, custom modern glass design.”"
   }
 ];

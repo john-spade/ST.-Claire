@@ -13,7 +13,7 @@ const SUITES_DATA: RoomSuite[] = [
     rate: 680,
     view: "Infinite River & Shipping Channel View",
     highlights: ["In-room freestanding copper soaking tub", "Historic 1920s gold-leaf plaster detailing", "Private mahogany spirits cart with rare ryes"],
-    image: "/src/assets/images/st_clair_luxury_room_1779727609373.png"
+    image: "/images/st_clair_luxury_room_1779727609373.png"
   },
   {
     id: "captains-quarters",

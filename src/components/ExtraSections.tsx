@@ -7,22 +7,22 @@ export default function ExtraSections() {
 
   const galleryImages = [
     {
-      url: '/src/assets/images/st_clair_inn_hero_1779727576521.png',
+      url: '/images/st_clair_inn_hero_1779727576521.png',
       caption: 'Main Tudor Estate overlooking the St. Clair Shipping Channels',
       tag: 'ARCHITECTURE'
     },
     {
-      url: '/src/assets/images/st_clair_dining_room_1779727593233.png',
+      url: '/images/st_clair_dining_room_1779727593233.png',
       caption: 'The Anchor Dining Room - Intimate Lakeside Gastronomy',
       tag: 'GASTRONOMY'
     },
     {
-      url: '/src/assets/images/st_clair_luxury_room_1779727609373.png',
+      url: '/images/st_clair_luxury_room_1779727609373.png',
       caption: 'The Gilded Age Suite - Exposed Beam & Copper Restoration',
       tag: 'SUITES'
     },
     {
-      url: '/src/assets/images/st_clair_restored_barn_1779727626592.png',
+      url: '/images/st_clair_restored_barn_1779727626592.png',
       caption: 'The 200-Year-Old Recovered Timber Barn & Prohibition Speakeasy',
       tag: 'HERITAGE'
     },

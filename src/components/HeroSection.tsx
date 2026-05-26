@@ -16,21 +16,21 @@ const SLIDES: Slide[] = [
     title: "ST. CLAIR INN",
     tagline: "EST. 1926",
     subtitle: "A monument of 1920s architecture restored on the St. Clair River, designed for seekers of quiet luxury and historic depth.",
-    image: "/src/assets/images/st_clair_inn_hero_1779727576521.png"
+    image: "/images/st_clair_inn_hero_1779727576521.png"
   },
   {
     id: 2,
     title: "THE PROVISIONS",
     tagline: "FINE GASTRONOMY",
     subtitle: "Sophisticated candlelit settings overlooking the sweeping currents, featuring locally sourced heritage grains, custom whiskeys, and legendary culinary poise.",
-    image: "/src/assets/images/st_clair_dining_room_1779727593233.png"
+    image: "/images/st_clair_dining_room_1779727593233.png"
   },
   {
     id: 3,
     title: "THE SANCTUARY",
     tagline: "BOUTIQUE SUITES",
     subtitle: "A seamless transition of historic rich millwork, polished plaster walls, and hand-woven premium linens aligned with raw Swiss minimalist restraint.",
-    image: "/src/assets/images/st_clair_luxury_room_1779727609373.png"
+    image: "/images/st_clair_luxury_room_1779727609373.png"
   }
 ];
 

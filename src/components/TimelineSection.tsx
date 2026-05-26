@@ -9,21 +9,21 @@ const TIMELINE_DATA: TimelineItem[] = [
     title: "The Historic Beam",
     location: "The Heritage Barn",
     description: "Centuries before the Inn’s foundation, pioneering craftsmen timbered Michigan hemlock into a colossal barn frame, which stands painstakingly preserved at the center of our master property today.",
-    image: "/src/assets/images/st_clair_restored_barn_1779727626592.png"
+    image: "/images/st_clair_restored_barn_1779727626592.png"
   },
   {
     year: "1926",
     title: "The Grand Inauguration",
     location: "The Brick Pavilion",
     description: "The St. Clair Inn officially opens its massive carved doors to Gilded Age high society, immediately celebrated as the premiere anchorage for passenger steamliners and yachts cruising the St. Clair River.",
-    image: "/src/assets/images/st_clair_inn_hero_1779727576521.png"
+    image: "/images/st_clair_inn_hero_1779727576521.png"
   },
   {
     year: "1948",
     title: "Whiskey, Gold & Jazz",
     location: "The Anchor Room",
     description: "During the mid-century shipping boom, the Inn establishes itself as a secretive sanctuary, hosting jazz legends, captains of industry, and storing legendary collections of rare Canadian ryes.",
-    image: "/src/assets/images/st_clair_dining_room_1779727593233.png"
+    image: "/images/st_clair_dining_room_1779727593233.png"
   },
   {
     year: "1982",
@@ -37,7 +37,7 @@ const TIMELINE_DATA: TimelineItem[] = [
     title: "The Swiss Restoration",
     location: "St. Clair Inn",
     description: "A masterful reconstruction combines raw minimalist spatial luxury with the Inn’s historic bones, pairing vintage 1920s molding with sleek stone blocks and a pristine Great Lakes gaze.",
-    image: "/src/assets/images/st_clair_luxury_room_1779727609373.png"
+    image: "/images/st_clair_luxury_room_1779727609373.png"
   }
 ];
 
