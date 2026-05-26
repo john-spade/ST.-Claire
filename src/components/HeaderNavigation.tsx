@@ -53,12 +53,12 @@ export default function HeaderNavigation({ onReserveClick }: HeaderNavigationPro
           </a>
 
           {/* Desktop Navigation Links */}
-          <nav className="hidden lg:flex items-center gap-3 xl:gap-6 2xl:gap-8 flex-1 justify-center max-w-3xl">
+          <nav className="hidden lg:flex items-center gap-2 xl:gap-6 2xl:gap-8 flex-1 min-w-0 justify-center max-w-3xl">
             {navLinks.map((link) => (
               <a
                 key={link.name}
                 href={link.href}
-                className="whitespace-nowrap text-[10px] xl:text-[11px] uppercase tracking-[0.14em] xl:tracking-[0.2em] font-semibold text-parchment/90 hover:text-parchment transition-colors relative group py-1"
+                className="whitespace-nowrap text-[9px] xl:text-[11px] uppercase tracking-[0.06em] xl:tracking-[0.2em] font-semibold text-parchment/90 hover:text-parchment transition-colors relative group py-1"
               >
                 {link.name}
                 <span className="absolute bottom-0 left-0 w-0 h-[1.5px] bg-color-lakes-blue-light transition-all duration-300 group-hover:w-full" />
